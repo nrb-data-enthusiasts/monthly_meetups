@@ -36,4 +36,11 @@
 
 ## Previous topics
 
-* **2019 Feb 09 (Sat)**: [Introduction to regular expression] - _Brian K._
+* **2019 Feb 09 (Sat)**: [Introduction to regular expression]() - _Brian K._
+
+## Requested topics or readings
+Note: _Add it on top(just below example), link to the reading and your name_
+
+* [Introduction to Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
+	* Steve C.
+
