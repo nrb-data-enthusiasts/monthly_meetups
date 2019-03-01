@@ -1,1 +1,2 @@
-# monthly_meetups
+Nairobi-Data-Enthusiasts
+
