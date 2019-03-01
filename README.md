@@ -9,9 +9,9 @@
 * You are always welcome to take a lead
 
 
-## Next topics
+## Next topic(s)
 
-* **2019 Mar 02 (Sat)**: [Introduction to hypothesis testing] - _All_ 
+* **2019 Mar 02 (Sat)**: Introduction to hypothesis testing - _Discussion_ 
 
 ## Upcoming topics
 
